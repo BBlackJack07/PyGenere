@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import vigenere as vig
+import pygenere as vig
 
 
 if __name__=="__main__":
